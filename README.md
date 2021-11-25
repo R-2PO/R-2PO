@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @C-3D2
+- 👀 I’m interested in python, JS, HTML, CSS, C++
