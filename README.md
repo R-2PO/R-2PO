@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @R-2PO
-- 👀 I’m interested in python, JS, HTML, CSS, C++
+- 👀 I’m interested in python, JS, HTML, CSS, C++, Rust
